@@ -18,7 +18,7 @@ public/content/mu-plugins/*
 !public/content/themes/index.php
 !public/content/mu-plugins/index.php
 !public/content/mu-plugins/register-theme-directory.php
-!public/content/plugins/pruderground-newsletter/*
+!public/content/plugins/pruderground-newsletter/
 
 # Ignore the local config
 public/local-config.php
